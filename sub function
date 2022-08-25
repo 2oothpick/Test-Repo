@@ -6,6 +6,7 @@ void sub(int a, int b);
 int main()
 {
     sub(9,4);
+    printf("hello world");
     return 0;
 }
 
